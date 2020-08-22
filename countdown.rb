@@ -1,5 +1,5 @@
 #write your code here
-num = 10 
+num = 12
 
 def countdown(num)
   while num -= 1 
